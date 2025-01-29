@@ -15,7 +15,7 @@ How to build?
 Extract this set of patches to a new directory, clone plutosdr software, please note the directory name in the apply.sh script, adjust as needed.  
 ```sh
 mkdir libresdr-fw-patch_v0.37_src
-cd  libresdr-fw-patch_v0.37_scr
+cd  libresdr-fw-patch_v0.37_src
 git clone --branch v0.37 https://github.com/analogdevicesinc/plutosdr-fw.git  libresdr-fw-patch_v0.37
 ./apply.sh
 cd libresdr-fw-patch_v0.37
