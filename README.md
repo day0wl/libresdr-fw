@@ -15,7 +15,7 @@ How to build?
 
 1. Clone this repository:
 ```sh
-git clone git@github.com:day0wl/libresdr-fw.git
+git clone https://github.com/day0wl/libresdr-fw.git
 ```
 2. Change directory to the cloned source code and get original Pluto firmware code v.0.37 
 ```sh
